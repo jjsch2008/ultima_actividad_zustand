@@ -88,4 +88,4 @@ function ListaProductos() {
 }
 
 // Exportamos el componente.
-export default ListaProductos
+export default ListaProductos 
